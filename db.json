@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "Pancchi",
+      "email": "pancchi@gmail.com",
+      "password": "Panchi@123"
+    },
+    {
+      "email": "f@sfds",
+      "password": "qwertY@123",
+      "userName": "dsdf",
+      "id": 2
+    },
+    {
+      "email": "test@test",
+      "password": "testTes@123",
+      "userName": "test",
+      "id": 3
+    },
+    {
+      "email": "test@test1",
+      "password": "asdsaQW@",
+      "userName": "adsfdf",
+      "id": 4
+    },
+    {
+      "email": "newuser@newuser",
+      "password": "newUSer@12",
+      "userName": "newuser",
+      "id": 5
+    },
+    {
+      "email": "test@tests",
+      "password": "asfaWE@sda",
+      "userName": "asdfas",
+      "id": 6
+    }
+  ],
+  "events": [
+    {
+      "userId": 1,
+      "name": "Sunita",
+      "date": "",
+      "desc": "",
+      "price": null,
+      "premium": "Normal",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "name": "Supriti chiti",
+      "date": "",
+      "desc": "",
+      "price": null,
+      "premium": "Premium",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "name": "hi",
+      "date": "",
+      "desc": "",
+      "price": null,
+      "premium": "",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "event",
+      "date": "2023-01-30",
+      "desc": "Desc",
+      "price": "67",
+      "premium": "Premium",
+      "userId": 2
+    },
+    {
+      "userId": 2,
+      "id": 8,
+      "name": "afdaf",
+      "date": "",
+      "desc": "afdf",
+      "price": "65",
+      "premium": "Premium"
+    },
+    {
+      "userId": 2,
+      "name": "dad",
+      "date": "2023-02-02",
+      "desc": "re",
+      "price": "434",
+      "premium": "Normal",
+      "id": 9
+    },
+    {
+      "userId": 3,
+      "name": "Event1",
+      "date": "2023-02-06",
+      "desc": "fadfadfadfasdas",
+      "price": "80",
+      "premium": "Premium",
+      "id": 10
+    }
+  ]
+}

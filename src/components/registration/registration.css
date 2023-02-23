@@ -1,0 +1,50 @@
+.register{
+    background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/w-qjCHPZbeXCQ-unsplash.jpg");
+   height: 100vh;
+   width: 100%;
+ }
+ .registerComponent{
+    display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding-top: 200px;
+}
+
+.registerForm{
+   
+    padding: 30px;  
+    border: 1px  solid rgba(255, 255, 255, 0);
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    width:400px;
+    display: flex;
+    flex-direction: column;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.registerInput{
+    height: 30px;
+    width: 100%;
+    border: 1px solid grey;
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+.button{
+    
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    padding:10px 30px;
+    border-radius:20px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+}
+.heading{
+    font-weight: bold;
+    font-size: 32px;
+    }
+
+label{
+    font-weight: bold;
+}

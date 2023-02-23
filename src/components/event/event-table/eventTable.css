@@ -1,0 +1,44 @@
+
+.premiumRow {
+    background-color: #f8e003;
+}
+.premiumRow:hover {
+    background-color: #ddf314;
+}
+
+.normalRow {    
+    background-color: #c6cfcf;
+       
+}
+.normalRow:hover {
+    background-color: #aebdbd;
+}
+
+.headerRow {
+    background-color: #3b9bf5;   
+}
+
+th,td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #DDD;
+}
+
+.eventTable{
+    border-collapse: collapse;
+    width: 40%;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.eventButton {
+    all: unset;
+    cursor: pointer;
+    padding: 3px 30px;
+    font-weight: bold;
+        outline: rgb(160, 160, 158) 5px auto;
+}
+
+.eventButton:hover {
+    outline: rgb(83, 83, 82) 5px auto;
+}
